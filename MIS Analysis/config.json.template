@@ -1,0 +1,10 @@
+{
+    "anthropic_api_key": "YOUR_ANTHROPIC_API_KEY_HERE",
+    "batch_size": 2,
+    "max_workers": 2,
+    "max_sentences_per_chunk": 15,
+    "anthropic_model": "claude-sonnet-4-5-20250929",
+    "similarity_threshold": 0.6,
+    "min_rule_frequency": 2,
+    "confidence_threshold": 0.7
+}

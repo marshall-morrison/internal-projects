@@ -1,0 +1,54 @@
+rule_id,general_rule,frequency,confidence,source_documents
+rule_22,Billing processes must be automated,2,0.85,MavenAGI Merchant Info Sheet - Google Docs; MIS for Milk Moovement - Google Docs
+rule_27,Support inquiries should be directed to support@tabsplatform.com,10,0.8,MavenAGI Merchant Info Sheet - Google Docs; Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs; Plenful MIS Template - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_43,Contact support at tabsplatform.com for questions,2,0.725,MavenAGI Merchant Info Sheet - Google Docs; Summer Discovery - MIS - Google Docs
+rule_47,Platform fees are charged annually,2,0.75,MavenAGI Merchant Info Sheet - Google Docs
+rule_57,Billing Start Date equals Service Start Date unless specified otherwise,2,0.85,MavenAGI Merchant Info Sheet - Google Docs; Lakera MIS - Google Docs
+rule_58,Default Net Terms to net 0 if not specified,3,0.85,MavenAGI Merchant Info Sheet - Google Docs; Summer Discovery - MIS - Google Docs; Fingerprint MIS - Google Docs
+rule_71,Use full service term for threshold period,2,0.7749999999999999,MavenAGI Merchant Info Sheet - Google Docs; Ash MIS - Google Docs
+rule_76,Support contact must be made through tabsplatform.com,7,0.7357142857142858,MavenAGI Merchant Info Sheet - Google Docs; Summer Discovery - MIS - Google Docs; Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Fingerprint MIS - Google Docs
+rule_98,Statsig integrations must be labeled as 'Sales',8,0.8062499999999999,MavenAGI Merchant Info Sheet - Google Docs; Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs; Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_99,Pinata integration items must be labeled as 'Software Subscription Bundle',10,0.8,MavenAGI Merchant Info Sheet - Google Docs; Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs; Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_100,Ops Team must notify relevant stakeholders upon batch processing completion,4,0.85,MavenAGI Merchant Info Sheet - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_103,Implementation team must complete Notes section during handoff,3,0.85,Plenful MIS Template - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_104,POC information must be documented for both Implementation and CX teams,3,0.85,Lakera MIS - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_111,Contract tracking must be automated,2,0.85,MIS for Milk Moovement - Google Docs
+rule_136,Professional services are divided into implementation and custom development categories,2,0.7,MIS for Milk Moovement - Google Docs
+rule_139,Contact support through tabsplatform.com,2,0.6499999999999999,Plenful MIS Template - Google Docs; MIS for Milk Moovement - Google Docs
+rule_160,Processing specifications must be documented per contract,3,0.7333333333333334,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs; MIS for Milk Moovement - Google Docs
+rule_161,Service terms must have default parameters,3,0.6999999999999998,Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_162,Invoice dates may require specific handling rules,3,0.6999999999999998,Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_163,Default payment term is 1 year if none specified,4,0.85,Fingerprint MIS - Google Docs; Summer Discovery - MIS - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_164,Default net payment terms is 0 if none specified,3,0.85,Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_165,Default billing frequency is monthly if none listed,4,0.8125,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_166,Operations team has predefined defaults for missing values,2,0.85,Summer Discovery - MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_167,Every tax line item becomes a BT Events Processing if none listed,4,0.8125,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs; Fingerprint MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_169,Implementation Success team must complete Events Processing section post-go-live,2,0.7,MIS for Milk Moovement - Google Docs
+rule_171,Feature requests must be documented with What/Why/Urgency details,2,0.85,Plenful MIS Template - Google Docs; MIS for Milk Moovement - Google Docs
+rule_172,Customer Success (Azmat Aziz) must be notified when contracts are processed,8,0.8062499999999999,Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs; Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Fingerprint MIS - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_173,Notifications must be sent through Messari internal merchant channel,6,0.8333333333333334,Summer Discovery - MIS - Google Docs; Plenful MIS Template - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Fingerprint MIS - Google Docs; Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_176,Success team must document post-go-live,2,0.8,Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_177,Calls must be recorded in Gong.io platform,4,0.5999999999999999,Summer Discovery - MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_178,Call recordings must have unique ID numbers,3,0.5666666666666665,Ash MIS - Google Docs; MIS for Milk Moovement - Google Docs
+rule_187,Original document should not be edited - copies must be made,6,0.8249999999999998,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs; Summer Discovery - MIS - Google Docs
+rule_221,Document must be copied before editing,2,0.7749999999999999,Summer Discovery - MIS - Google Docs
+rule_239,Items labeled as 'fee' require specific categorization,2,0.7,Summer Discovery - MIS - Google Docs
+rule_241,Default billing frequency is Monthly if not specified,2,0.85,Fingerprint MIS - Google Docs; Summer Discovery - MIS - Google Docs
+rule_243,Statsig integration items should be labeled as 'Sales',2,0.7749999999999999,Summer Discovery - MIS - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs
+rule_245,Implementation Success team handles post-go-live processing details,2,0.7749999999999999,Summer Discovery - MIS - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs
+rule_248,Account ID must be specified,5,0.6599999999999999,Lakera MIS - Google Docs; Summer Discovery - MIS - Google Docs
+rule_256,Special memos are required for certain invoices,3,0.7166666666666667,Fingerprint MIS - Google Docs; Plenful MIS Template - Google Docs; Summer Discovery - MIS - Google Docs
+rule_330,Default payment terms are Net 30 if not specified,3,0.85,Lakera MIS - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs; Ash MIS - Google Docs
+rule_346,"Different phases require different team members to fill documentation (AE, Implementation, Success)",2,0.85,Fingerprint MIS - Google Docs; AlphaAI Technologies DBA Tavily MIS - Google Docs
+rule_350,Billing occurs monthly in arrears,2,0.85,Plenful MIS Template - Google Docs
+rule_351,Usage tracking must be based on data volume and/or SKU count,2,0.85,Plenful MIS Template - Google Docs
+rule_352,Engineering team must provide monthly HTML usage reports,2,0.85,Plenful MIS Template - Google Docs
+rule_373,Make a copy of the document instead of editing original,3,0.75,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs
+rule_407,Taxes must be handled as separate line items,2,0.7749999999999999,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs
+rule_411,Processing completion notifications must follow specified who/where/when protocol,3,0.85,Lakera MIS - Google Docs; Plenful MIS Template - Google Docs; Fingerprint MIS - Google Docs
+rule_412,Implementation Success team is responsible for Post-Go Live section completion,2,0.85,Fingerprint MIS - Google Docs; Plenful MIS Template - Google Docs
+rule_425,Default service duration is 12 months if not specified,2,0.85,Lakera MIS - Google Docs; Ash MIS - Google Docs
+rule_444,Integration items must be labeled according to specific guidelines,3,0.85,Lakera MIS - Google Docs; Fingerprint MIS - Google Docs
+rule_445,Implementation Success team is responsible for post-go-live documentation,2,0.7749999999999999,Lakera MIS - Google Docs; Ash MIS - Google Docs
+rule_447,Communications should be made through Messari internal merchant channel,2,0.725,Lakera MIS - Google Docs; Ash MIS - Google Docs
+rule_499,Renewal contracts must use identical event types as original contract,2,0.85,Ash MIS - Google Docs
